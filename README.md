@@ -1,5 +1,3 @@
-# to-do-list-projeto
-
 📝 Projeto To-Do List
 Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido em JavaScript. O objetivo é permitir que o usuário adicione, visualize e remova tarefas de uma lista, com os dados sendo armazenados localmente no navegador utilizando localStorage.
 
@@ -14,7 +12,7 @@ Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido em Java
 ⚙️ JavaScript: Funcionalidades interativas e manipulação do localStorage.
 🚀 Como Usar
 
-- Clone este repositório.
+Clone este repositório.
 Abra o arquivo index.html em seu navegador.
 📝 Digite a tarefa que deseja adicionar no campo de entrada.
 ➕ Clique no botão de adicionar para inserir a tarefa na lista.
